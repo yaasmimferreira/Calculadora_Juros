@@ -1,0 +1,127 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-form {
+    width: 100%;
+    height: 100vh;
+    background: #272038;
+    display: flex;
+    align-items: center;
+}
+
+#frase {
+    width: 75vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+}
+
+
+#form {
+    width: 67vh;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px 23px;
+    border-radius: 15px;
+}
+
+.tabela {
+    width: 119%;
+    padding: 30px 35px;
+    background: #41375a;
+    border-radius: 10px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
+.tabela h1 {
+    color: #03ffc8;
+    font-weight: 885px;
+    text-align: center;
+    margin: 20px 0px;
+    margin-top: -25px;
+    font-family: 'Concert One', cursive;
+    font-size: 45px;
+}
+
+.valor {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+input {
+    background: #594f74ea;
+    border: none;
+    width: 94%;
+    border-radius: 5px;
+    margin: 8px 0px;
+    color: #f0ffffde;
+    padding: 8px;
+    font-size: 20px;
+    outline: none;
+}
+
+label {
+    width: 110%;
+    margin-bottom: 5px;
+    color: rgba(234, 234, 235, 0.945);
+    font-family: 'Poppins';
+    font-size: 22px;
+}
+
+.valor {
+    margin-bottom: 10px;
+}
+
+button {
+
+    font-size: 21px;
+    border-radius: 5px;
+    border: none;
+    padding: 3px 30px;
+    background-color: #03ffc8;
+    color: #2b134b;
+    cursor: pointer;
+    margin: 10px 13px;
+    margin-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0px 10px 40px -12px #00ff8052;
+}
+
+
+button:hover {
+    background-color: rgb(138, 42, 228);
+}
+
+#botao {
+    width: 100vh;
+}
+
+img {
+    width: 105%;
+}
+
+h3{
+    
+    font-size: 32px;
+    margin: 10px 0px;
+    color: #f0ffffde;
+}
+
+span{
+    font-size: 40px;
+    color: #f0ffffde;
+}
+
+#resultados{
+    border-top: 1px solid rgb(255 248 248 / 81%);
+    padding: 2px 0px;
+}
