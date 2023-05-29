@@ -1,0 +1,15 @@
+@media (max-width: 1028px) {
+    #form {
+        width: 40vh;
+    }
+
+    .tabela {
+        width: 75%;
+    }
+
+    button {
+        padding: 3px 9px;
+    }
+
+
+}
