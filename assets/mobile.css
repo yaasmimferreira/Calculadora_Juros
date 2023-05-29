@@ -41,6 +41,10 @@
         font-size: 11px;
     }
 
+    #resultados{
+        margin-top: 15px;
+    }
+
     input{
         font-size: 7px;
     }
