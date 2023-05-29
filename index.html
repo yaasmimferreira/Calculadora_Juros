@@ -65,7 +65,8 @@
         var Bntcomposto = document.getElementById("compostos")
 
         function contaSimples() {
-            document.getElementById("result").innerHTML =  ("R$"+ (parseFloat(c.value) + (c.value * (i.value/100) * t.value)).toFixed(2).replace('.', ','))
+            document.getElementById("result").innerHTML =  ("R$"+ (parseFloat(c.value) + (c.value * (i.value/100) * t.value))).toFixed(2).replace('.', ',')
+        
         }
 
         function contaComposto() {
