@@ -2,6 +2,11 @@
     .tabela {
         width: 29%;
         padding: 34px 44px;}
+
+        
+    #frase{
+        display: none;
+    }
 }
 
 
