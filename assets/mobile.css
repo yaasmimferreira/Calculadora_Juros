@@ -2,11 +2,6 @@
     .tabela {
         width: 29%;
         padding: 34px 44px;}
-
-        
-    #frase{
-        display: none;
-    }
 }
 
 
@@ -35,7 +30,31 @@
         font-size: 16px;
     }
 
-    #frase{
+    img {
         display: none;
+    }
+
+    .tabela {
+        width: -20%;}
+
+    label{
+        font-size: 11px;
+    }
+
+    input{
+        font-size: 7px;
+    }
+
+    button {
+        font-size: 12px;
+        border-radius: 5px;
+        margin: -3px 2px;
+    }
+
+    h3 {
+        font-size: 15px;}
+
+    span {
+        font-size: 24px;
     }
 }
