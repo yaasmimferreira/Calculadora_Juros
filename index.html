@@ -48,7 +48,9 @@
                 <div id="resultados">
                     <h3>Resultado:</h3>
                     <div id="total">
-                        <span id="result"></span>
+                        <span id="result">
+                            R$ 0,00
+                        </span>
                     </div>
                 </div>
             </div>
@@ -64,7 +66,7 @@
         var Bntcomposto = document.getElementById("compostos")
 
         function contaSimples() {
-            document.getElementById("result").innerHTML = ("R$" + parseFloat(c.value) + (c.value * (i.value/100) * t.value))
+            document.getElementById("result").innerHTML = parseFloat(c.value) + (c.value * (i.value/100) * t.value).toFixed(2)
         }
 
         function contaComposto() {
