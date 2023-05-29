@@ -29,4 +29,8 @@
     .tabela h1{
         font-size: 16px;
     }
+
+    #frase{
+        display: none;
+    }
 }
