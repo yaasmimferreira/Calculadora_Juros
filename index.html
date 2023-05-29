@@ -70,7 +70,7 @@
         }
 
         function contaComposto() {
-            document.getElementById("result").innerHTML = "R$"+ (parseFloat(c.value) * ((1 + (i.value/100)) ** t.value)).toFixed(2).replace('.', ',')
+            document.getElementById("result").innerHTML = ("R$"+ (parseFloat(c.value) * ((1 + (i.value/100)) ** t.value)).toFixed(2).replace('.', ','))
         }
 
         Bntsimples.addEventListener("click", contaSimples)
