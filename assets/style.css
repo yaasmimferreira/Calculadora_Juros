@@ -65,7 +65,7 @@ input {
     margin: 8px 0px;
     color: #f0ffffde;
     padding: 8px;
-    font-size: 20px;
+    font-size: 30px;
     outline: none;
 }
 
@@ -74,7 +74,7 @@ label {
     margin-bottom: 5px;
     color: rgba(234, 234, 235, 0.945);
     font-family: 'Poppins';
-    font-size: 22px;
+    font-size: 25px;
 }
 
 .valor {
@@ -83,7 +83,7 @@ label {
 
 button {
 
-    font-size: 21px;
+    font-size: 30px;
     border-radius: 5px;
     border: none;
     padding: 3px 30px;
