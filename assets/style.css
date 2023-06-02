@@ -34,7 +34,7 @@
 
 .tabela {
     width: 119%;
-    padding: 30px 35px;
+    padding: 85px 58px;
     background: #41375a;
     border-radius: 10px;
     box-shadow: 0px 10px 40px #00000056;
@@ -47,7 +47,7 @@
     margin: 20px 0px;
     margin-top: -25px;
     font-family: 'Concert One', cursive;
-    font-size: 45px;
+    font-size: 75px;
 }
 
 .valor {
@@ -64,8 +64,8 @@ input {
     border-radius: 5px;
     margin: 8px 0px;
     color: #f0ffffde;
-    padding: 8px;
-    font-size: 30px;
+    padding: 13px;
+    font-size: 38px;
     outline: none;
 }
 
@@ -74,7 +74,7 @@ label {
     margin-bottom: 5px;
     color: rgba(234, 234, 235, 0.945);
     font-family: 'Poppins';
-    font-size: 25px;
+    font-size: 35px;
 }
 
 .valor {
@@ -83,7 +83,7 @@ label {
 
 button {
 
-    font-size: 30px;
+    font-size: 44px;
     border-radius: 5px;
     border: none;
     padding: 3px 30px;
@@ -111,13 +111,13 @@ img {
 
 h3{
     
-    font-size: 32px;
+    font-size: 42px;
     margin: 10px 0px;
     color: #f0ffffde;
 }
 
 span{
-    font-size: 40px;
+    font-size: 47px;
     color: #f0ffffde;
 }
 
