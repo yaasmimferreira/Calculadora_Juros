@@ -57,19 +57,20 @@ button {
 .main-form {
     width: 106%;
     height: 106vh;
-}}
+}
+ 
+body {
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+}
 
 @media (max-width: 320px){
     .main-form {
         width: 113%;
     }
- 
-    body {
-        background-image: url(img/fundo.png);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-      }
 
     .tabela h1{
         font-size: 16px;
