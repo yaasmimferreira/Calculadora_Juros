@@ -1,9 +1,19 @@
- @media (max-width: 1440px){
-    .tabela {
-        width: 29%;
-        padding: 34px 44px;}
-}
 
+
+@media (max-width: 1028px) {
+    #form {
+        width: 40vh;
+    }
+
+    .tabela {
+        width: 75%;
+    }
+
+    button {
+        padding: 3px 9px;
+    }
+
+}
 
 
 @media (max-width: 320px){
