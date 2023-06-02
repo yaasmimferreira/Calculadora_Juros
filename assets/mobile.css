@@ -30,6 +30,16 @@ label {
     margin-top: -12px;
     font-size: 22px;
 }
+#frase{
+    display: none;
+}
+
+#form {
+    width:78vh;
+}
+input{
+    padding: 6px;
+}
 }
 
 
