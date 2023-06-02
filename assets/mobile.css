@@ -112,6 +112,10 @@
     .tabela {
         width: 58%;
     }
+
+    button {
+        font-size: 10px;
+    }    
 }
 
 
